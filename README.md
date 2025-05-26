@@ -1,19 +1,66 @@
 <h1 align="center">Hi 👋, I'm Sadiq Aldubaisi</h1>
-<h3 align="center">A passionate fullStack developer from KSA</h3>
+<h3 align="center">Full-Stack Developer | ASP.NET Core & Angular Specialist</h3>
 
-<p align="left"> <a href="https://twitter.com/sadiqhd" target="blank"><img src="https://img.shields.io/twitter/follow/sadiqhd?logo=twitter&style=for-the-badge" alt="sadiqhd" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://sadiq-hd.github.io/Sadiq-portfolio/](https://sadiq-hd.github.io/Sadiq-portfolio/)
-
-- 📫 How to reach me **Sadiqhd@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sadiqhd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sadiqhd" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sadiq-aldubaisi-69721b222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sadiq-aldubaisi-69721b222/" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:Sadiqhd@gmail.com">📧 Email</a> |
+  <a href="https://sadiq-hd.github.io/Sadiq-portfolio/">🌐 Portfolio</a> |
+  <a href="https://www.linkedin.com/in/sadiq-aldubaisi-69721b222/">💼 LinkedIn</a> |
+  <a href="https://shuttercart.netlify.app/">🛒 ShutterCart</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadiq-hd&show_icons=true&locale=en&layout=compact" alt="sadiq-hd" /></p>
+### 🧠 Summary
+I'm a full-stack web developer with strong experience in **Angular**, **React**, and **ASP.NET Core**. I focus on building secure, responsive, and scalable web applications. My passion lies in solving complex problems and creating intuitive user experiences.
+
+---
+
+### 🛠️ Tech Stack
+**Languages & Frameworks:**  
+`Angular` • `React.js` • `ASP.NET Core` • `Node.js` • `JavaScript` • `TypeScript` • `Flutter` • `Dart`  
+**Database & Tools:**  
+`SQL Server` • `MySQL` • `Git` • `Bootstrap` • `Tailwind CSS`  
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadiq-hd&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+### 🔥 Projects Highlights
+
+- 🔹 **[ShutterCart](https://shuttercart.netlify.app/)** – Full-featured e-commerce platform (React + ASP.NET Core)  
+- 🔹 **[Graduation Project](https://github.com/sadiq-hd/ShotterCart.git)** – Angular store with user auth & cart system  
+- 🔹 **[OTP Auth System](https://github.com/sadiq-hd/public-Auth-api)** – Secure authentication using ASP.NET  
+- 🔹 **[GPA Calculator App](https://github.com/sadiq-hd/GPA-Calculator-2)** – Cross-platform Flutter app  
+- 🔹 **[Laravel Blog](https://github.com/sadiq-hd/Morph-blog)** – Content management system with admin panel
+
+---
+
+### 🎓 Education
+**B.Sc. in Software Engineering**  
+University of Hafr Al Batin, KSA (2018 – 2024)
+
+---
+
+### 📜 Certifications
+UI/UX Design • Full-Stack Web Dev • JavaScript • Flutter & Dart • Machine Learning • Cybersecurity
+
+---
+
+### 🌍 Languages
+- **Arabic:** Native  
+- **English:** Professional Proficiency
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+<a href="https://twitter.com/sadiqhd" target="blank"><img src="https://img.shields.io/twitter/follow/sadiqhd?style=social" /></a>
+<a href="https://linkedin.com/in/sadiq-aldubaisi-69721b222/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+<a href="mailto:Sadiqhd@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" /></a>
+</p>
