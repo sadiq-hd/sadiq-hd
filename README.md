@@ -5,7 +5,7 @@
   <a href="mailto:Sadiqhd@gmail.com">📧 Email</a> |
   <a href="https://sadiq-hd.github.io/Sadiq-portfolio/">🌐 Portfolio</a> |
   <a href="https://www.linkedin.com/in/sadiq-aldubaisi-69721b222/">💼 LinkedIn</a> |
-  <a href="https://shuttercart.netlify.app/">🛒 ShutterCart</a>
+ 
 </p>
 
 ---
