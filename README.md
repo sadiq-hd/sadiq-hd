@@ -58,13 +58,16 @@ I'm a full-stack web developer with strong experience in **Angular**, **React**,
 ### 🔥 Projects Highlights
 
 
-- 🔹 **[ShutterCart](https://shuttercart.netlify.app/)** – Full-featured e-commerce platform (React + ASP.NET Core)  
+- 🔹 **[ShutterCart](https://shuttercart.netlify.app/)** – Full-featured e-commerce platform (React )  
+- 🔹 **[ASP.NET Core ](https://github.com/sadiq-hd/reactBackend.git)** -Full-featured e-commerce platform ( ASP.NET Core)  
 - 🔹 **[Graduation Project](https://github.com/sadiq-hd/ShotterCart.git)** – Angular store with user auth & cart system  
 - 🔹 **[OTP Auth System](https://github.com/sadiq-hd/public-Auth-api)** – Secure authentication using ASP.NET  
 - 🔹 **[GPA Calculator App](https://github.com/sadiq-hd/GPA-Calculator-2)** – Cross-platform Flutter app  
 - 🔹 **[Laravel Blog](https://github.com/sadiq-hd/Morph-blog)** – Content management system with admin panel  
 - 🔹 **[Store Template](https://github.com/sadiq-hd/store-tamplate)** – Angular e-commerce UI template with reusable components  
 - 🔹 **[Travel Budget Planner](https://github.com/sadiq-hd/travel-budget-planner)** – Angular app for planning and tracking travel expenses  
+
+
 
 ---
 
